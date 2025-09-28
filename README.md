@@ -9,7 +9,7 @@
 
 - 📫 How to reach me email **akhilgaikwad07@gmail.com**
 
-- ⚡ Fun fact **I am 6'0 and listen regular listner of Taylor Swift**
+- ⚡ Fun fact **I am 6'0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
