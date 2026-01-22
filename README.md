@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am currently exploring the field of ML and DL.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/</h3>
 <p align="left">
 </p>
 
