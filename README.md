@@ -2,19 +2,6 @@
 <h3 align="center">A Passionate Coder and ML enthusiast from India</h3>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn"
-      width="28"
-      height="28"
-      style="vertical-align: middle;"
-    />
-  </a>
-</p>
-
-
 - 📫 How to reach me email **akhilgaikwad07@gmail.com**
 
 - ⚡ Fun fact **I am currently exploring the field of ML and DL.**
