@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Gaikwad.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Coder and ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-gaikwad" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me email **akhilgaikwad07@gmail.com**
 
-- ⚡ Fun fact **I am 6'0**
+- ⚡ Fun fact **I am currently exploring the field of ML and DL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
