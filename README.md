@@ -19,7 +19,18 @@
 
 - ⚡ Fun fact **I am currently exploring the field of ML and DL.**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/</h3>
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn"
+      width="28"
+      height="28"
+      style="vertical-align: middle;"
+    />
+  </a>
+</p>
 <p align="left">
 </p>
 
