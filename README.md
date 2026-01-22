@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Coder and ML enthusiast from India</h3>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/" target="blank"><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673-768x238.png" alt="" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/akhilesh-gaikwad-9a79aa291/" target="blank"><img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc.png" alt="" /></a> </p>
 
 - 📫 How to reach me email **akhilgaikwad07@gmail.com**
 
